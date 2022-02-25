@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of the true standard-gallon of England what it is, when, and by whom made, and where it is to bee found. By which the assizes of wine, ale, and corn, are to be justly known according to the proportions they bear to this standard-gallon. The which assizes are mentioned in the treatise called Composito Mensurarum, and in all other old books of assizes. This standard being not known to the commissioners and farmers of the excise of beer, and ale, in London, &amp;c. As appeareth by their non-observances of the assizes of beer and ale, giveth a just occasion of the brewers fifth complaint.</title>
+            <author>S. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58683</idno>
+            <idno type="STC">Wing S144A</idno>
+            <idno type="STC">ESTC R220918</idno>
+            <idno type="EEBO-CITATION">99832302</idno>
+            <idno type="PROQUEST">99832302</idno>
+            <idno type="VID">36774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2057:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of the true standard-gallon of England what it is, when, and by whom made, and where it is to bee found. By which the assizes of wine, ale, and corn, are to be justly known according to the proportions they bear to this standard-gallon. The which assizes are mentioned in the treatise called Composito Mensurarum, and in all other old books of assizes. This standard being not known to the commissioners and farmers of the excise of beer, and ale, in London, &amp;c. As appeareth by their non-observances of the assizes of beer and ale, giveth a just occasion of the brewers fifth complaint.</title>
+                  <author>S. S.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; cropped at head with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36774:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:36774:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:36774:2"/>
+            <pb facs="tcp:36774:2" rendition="simple:additions"/>
+            <p>A DISCOVERY OF THE TRUE Standard-Gallon OF ENGLAND; What it is, when, and by whom made, and where it is to bee found.</p>
+            <p>By which the Aſſizes of Wine, Ale, and Corn, are to be juſtly known according to the proportions they bear to this Standard-Gallon.</p>
+            <p>The which Aſſizes are mentioned in the Treatiſe called <hi>Compoſito Menſurarum,</hi> and in all other Old Books of Aſſizes.</p>
+            <p>This Standard being not known to the Commiſſio<g ref="char:EOLhyphen"/>ners and Farmers of the Exciſe of Beer, and Ale, in <hi>London, &amp;c.</hi> As appeareth by their Non-ob<g ref="char:EOLhyphen"/>ſervances of the Aſſizes of Beer and Ale, giveth a juſt occaſion of the Brewers fifth Complaint.</p>
+            <q xml:lang="lat">Linea recta eſt tam menſura ſuae quam obliquae.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36774:3"/>
+            <pb n="1" facs="tcp:36774:3"/>
+            <head>
+               <figure>
+                  <figDesc>Crown surmounting French fleur-de-lis with Tudor rose and Scottish thistle on either side</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>The true</hi> Aſſize <hi>of</hi> Beer <hi>and</hi> Ale; <hi>aſſer<g ref="char:EOLhyphen"/>ted, maintained, and proved by the Statutes, Old Aſſize-books, and general practice of Artiſts.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>t is the juſt Complaint of the Brewers, that the Gagers of the Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe, <hi>&amp;c.</hi> do not obſerve the Aſſizes of Beer and Ale accor<g ref="char:EOLhyphen"/>ding as they are commanded to do by the Ordinance of the Lords and Commons in Par<g ref="char:EOLhyphen"/>lament, made <hi>September</hi> the 11. 1643. <hi>Article</hi> XXIII</p>
+            <p>That they do not Gage the Brewers by the right Stan<g ref="char:EOLhyphen"/>dard-Gallon, appeareth by theſe Statutes following; Firſt, the Ordinance, for Mea<g ref="char:EOLhyphen"/>ſures made in <hi>Incertis temporibus,</hi> and Printed among the Statutes in XVIII. <hi>Edw.</hi> 2. by the conſent of the whole Realm of <hi>England</hi> the Meaſure of our Sovereign Lord the King was made: <hi>viz.</hi> An Engliſh Peny, called a Sterling, round and without clipping, ſhall weigh 32 Wheat-corns, in the midſt of the Ear, and XX<hi rend="sup">d</hi> ſhall make an Ounce, and 12 Ounces one
+<pb n="2" facs="tcp:36774:4"/>
+pound, and 8<hi rend="sup">l</hi> ſhall make a Gallon of Wine, and 8 Gallons of Wine ſhall make a buſhel <hi>London,</hi> which is the eighth part of a Quarter.</p>
+            <p>
+               <note place="margin">Note.</note>That by the Old Law theſe are the Weights and Meaſures of the Realm.</p>
+            <p>The 12 <hi>Hen.</hi> 7. <hi>Cap.</hi> 5<hi rend="sup">o</hi> theſe Weights and Meaſures in the O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance aboveſaid are enacted to be Standards in <hi>haec verba; Wherefore the King our Sovereign Lord, by the aſſent of the Lords ſpiritual and temporal, and the Commons in Parlament aſſembled, and by the Authority of the ſame, Ordeineth, Eſtabliſheth, and Enact<g ref="char:EOLhyphen"/>eth, <note place="margin">Which old Law is the Ordi<g ref="char:EOLhyphen"/>nance above.</note>That the Meaſure of the Buſhel ſhall contain 8 Gallons of Wheat, and that every Gallon ſhall contein 8 pound of wheat of Troy-weight, and every pound ſhall contein 12 Ounces of Troy weight, and every Ounce ſhall contein 20 Sterlings, and every Sterling ſhall be of the weight of 32 Corns of Wheat that grow in the mid'ſt of the Ear, accor<g ref="char:EOLhyphen"/>ding to the Old Law of the Land: <note place="margin">Note this is the Standard of England.</note>And that it pleaſed the King's Highneſs to make a Standard of a Buſhel, and a Gallon after the ſaid Aſſize, to remain in his Highneſs Treaſury for ever.</hi>
+            </p>
+            <p>
+               <note place="margin">Wine-Gallon.</note>This Gallon conteins 231 Cubical Inches, which is the Wine-Gallon.</p>
+            <p>About 40 years after, by the Statute of the 23. of <hi>Hen.</hi> 8. <hi>cap.</hi> 4. it was Enacted, <hi>That every Barrel for Beer ſhall contein 36 Gal<g ref="char:EOLhyphen"/>lons, every Kilderkin 18 Gallons, every Firkin 9 Gallons of the Kings Standard Gallon.</hi>
+            </p>
+            <p>
+               <note place="margin">Note this is the ſame Stan<g ref="char:EOLhyphen"/>dard Gallon, made the 12 of <hi>Hen. 7. cap. 5</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here being no <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther Stan<g ref="char:EOLhyphen"/>dard Gallon <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t that time.</note>
+               <hi>And that every Barrel for Ale ſhall contein 32 Gallons, every Kil<g ref="char:EOLhyphen"/>derkin 16 Gallons,</hi> &amp;c. <hi>of the King's Standard-Gallon: So that they ſhall be of good and juſt Meaſure, or elſe above, and not under.</hi>
+            </p>
+            <p>The ſame Act of 23 of <hi>Hen.</hi> 8. farther provideth, and explain<g ref="char:EOLhyphen"/>eth what is meant by theſe words; 36 Standard Gallons, or above (towards the end of the 4. <hi>cap.</hi> of that Act); <hi>It is Enacted, that every Cooper which ſhall hereafter make any the Veſ<g ref="char:EOLhyphen"/>ſels ſpecified in the ſaid Act, ſhall from the Feast of Pentecoſt next coming make every ſuch Veſſel according to the Aſſize ſpecified in the Treatiſe called,</hi> Compoſito Monſurarum: viz.<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ote this is the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me Standard <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>allon afore<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>id.</note>
+               <hi>Every Barrel for Ale contain 32 Gallons of the ſaid Aſſize, or above; of
+<pb n="3" facs="tcp:36774:4"/>
+which 8 Gallons make the Common Buſhel to be uſed in this Realm: every Kilderkin 16 Gallons,</hi> &amp;c.</p>
+            <p>So that it appears plainly, that the Wine-Gallon is the Stan<g ref="char:EOLhyphen"/>dard-Gallon; the which Gallon is to this day in the Exch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quer, the which was made in <hi>Henry</hi> the 7<hi rend="sup">th</hi> his time; by which Gallon are the Coopers Barrels to be made, as appeareth by the Statute of 23. <hi>Hen.</hi> 8 <hi>cap.</hi> 4<hi rend="sup">o</hi>, But yet with a reſpect to the Aſſize ſpecified the Treatiſe called, <hi>Compoſito Monſurarum;</hi> The which Trea<g ref="char:EOLhyphen"/>tiſe is now not to be found <hi>(Tempus edaxrerum</hi> hath ſwallow<g ref="char:EOLhyphen"/>ed it up) but the Aſſize is ſtill kept up by Tradition of the Coopers in their Scantlings for their Barrels, Kilderkins, and Firkins, their ſcantlings for Beer and Ale, being nothing but the additi<g ref="char:EOLhyphen"/>on of a fifth to Wine-meaſure, which is called Ale-meaſure, and by ſome <hi>Wincheſter</hi> Meaſure; but why called <hi>Wincheſter</hi> Meaſure, is not yet well known.</p>
+            <p>
+               <note place="margin">Mr. Newton <hi>in his book grants that the Wine-Gallon doth contein 231 Cubical-Inches.</hi>
+               </note>Now all the Artiſts in <hi>London</hi> do agree, that the Wine-Gallon conteins 231 Cubicall-Inches, or thereabouts, to which if you add a fifth <hi>viz.</hi> 57 ¾ it makes 288¼ Cubicall-Inches: which is the Content of the Ale-Gallon. And theſe 288 ¾ Cubicall-In<g ref="char:EOLhyphen"/>ches agreeth punctually with the Coopers ſcantlings, and this likewiſe agreeth with the Ale quart, which is the quart part, or fourth part of the Ale-Gallon.</p>
+            <p>The which Ale-quart is mentioned in 1<hi rend="sup">o</hi>; <hi>Jacobi. Cap.</hi> 9<hi rend="sup">o</hi>; where it is enacted, that the Inn-keeper, Ale-houſe-keeper- or Victual<g ref="char:EOLhyphen"/>ler, ſhall not ſell leſſe then one full Ale-quart of the beſt Beere or Ale for a penny. The which Ale-quart is a fifth more then the Wine-quart. This Ale-quart by the conſent of all Artiſts; doth contein 72 3/16 which is the fourth part of 288 ¾ which is the Content of the Ale-gallon by which the Victualler ought to re<g ref="char:EOLhyphen"/>ceive his Ale and Beer by. And this all the Books of Aſſize call the Ale-meaſure, and ſometimes <hi>Wincheſter</hi> Meaſure; And this Ale-quart or Ale-meaſure was made one fifth bigger then the Wine, becauſe of it's foulneſſe in working, yeſt, and frothing, as M. <hi>Powell</hi> ſpeaks in his Book of Aſſize.</p>
+            <p>
+               <pb n="4" facs="tcp:36774:5"/>
+The Gallon by which Mr. <hi>Lyon</hi> Gage<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Brewers-Tunns is not the Wine-Gallon, therefore not the Standard mentioned in the Act, therefore not the Standard of <hi>England;</hi> for it holds as he himſelf affirms, 272 Cubicall-Inches, which is bigger then the Standard-Gallon, and leſſe then the Ale-Gallon by one eighteenth part: This Gallon was made in the time of <hi>Queen Eliſabeth,</hi> about 88, as appeareth by the Superſcription; It be<g ref="char:EOLhyphen"/>ing never confirmed by any Act of Parlament; or ever uſed for the Ale-Gallon, untill <hi>Winſtanley</hi> and Mr. <hi>Lyon,</hi> two Novices in the Art of Gag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, miſtaking the Standard-Gallon, took that for the Standard of <hi>England,</hi> which was made for no other end but to be a Meaſure by which the Buſhells to meaſure Water-Corn, ſhould be made: For if that were the Standard-Gallon, as Mr. <hi>Lyon</hi> by a miſtake ſo calleth it; and the Commiſſioners and Farmers in their anſwer do affirm and aſſert to be; then all Buſhels and Gallons of Towns Corporate, which do not agree with It, ought by the Act of the 12. of <hi>Hen.</hi> 7. <hi>Cap</hi> 9. to be broken ſo that then likewiſe the Wine-Gallon it ſelf muſt be broken, becauſ it conteineth 41 Cubicall-Inches leſs then the Corn-Gallon, which Mr. <hi>Lyon</hi> calleth the Standard-Gallon. The miſtake of which Corn-Gallon for the Standard-Gallon occaſioned learned Mr. <hi>Oughtred</hi> to affirm the Ale-Gallon to contein but 272 Cu<g ref="char:EOLhyphen"/>bicall-Inches; And that contrary to the opinion of Mr. <hi>Goodwin,</hi> Mr. <hi>Gunter,</hi> Mr. <hi>Reynolds,</hi> and all the ancient and late Artiſts and Mathematicians of <hi>England;</hi> for as Accurate Mr. <hi>Henry Philips</hi> in his late Treatiſe of Gageing of Veſſels obſerveth that there are in uſe 3 ſorts of Meaſures; the Meaſure for Wine be<g ref="char:EOLhyphen"/>ing 231 Inches, the Meaſure of dry things as Corn, <hi>&amp;c.</hi> being about 272 Inches, and the Meaſure for Beer and Ale being 288 Inches ¾, the Proportion between theſe 3 Gallons he obſerveth to be 28. 33. 35. And ſo concludes the Proportion between the Wine and Ale-Gallon to be exactly as 4 to 5. The which he proveth by the <hi>London</hi> Coopers Scantlings for a Beer-Barrell after this manner.
+<table>
+                  <row>
+                     <cell>The Diameter at the head</cell>
+                     <cell>19 Inches</cell>
+                     <cell>9 parts</cell>
+                  </row>
+                  <row>
+                     <cell>The Diameter at the Bung</cell>
+                     <cell>23 Inches</cell>
+                     <cell>0 parts</cell>
+                  </row>
+                  <row>
+                     <cell>The Length is</cell>
+                     <cell>27 Inches</cell>
+                     <cell>4 parts</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:36774:5"/>
+Which being caſt up yeildes—36 Gallons and 140 parts over, according to 288 ¾—So that the Beer-Barrell agreeth exactly with the Rule of Proportion aforeſaid between the Wine-Gallon and the Ale-Gallon, which is as 4 to 5. The ſaid M. <hi>Philips</hi> concluding that the Rule of Proportion of 4 to 5 agreeth very well with the Coopers and Brewers, who are moſt concerned herein, and would not willingly loſe ſo much over-meaſure as Mr. <hi>Oughtred</hi> and Mr. <hi>Lyons</hi> Rules intimate, but would rather if they had any truth in them, be ready to follow them for their own ad<g ref="char:EOLhyphen"/>vantage, for thereby the Cooper would ſave his Timber, and the Brewer his over-meaſure.</p>
+            <epigraph>
+               <q xml:lang="lat">Qui non eſt hodie, Cras magis aptus erit.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
